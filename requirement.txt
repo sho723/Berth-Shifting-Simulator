@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+json
+datatime
+itertools
+StringIO
+requests
